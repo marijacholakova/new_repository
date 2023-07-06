@@ -1,4 +1,4 @@
 update
 commit in the enhancement branch
 commit 2 in the enhancement branch
-a local change in the enhancement branch
+a local change in the enhancement branchanother commit in the enhancement branch
