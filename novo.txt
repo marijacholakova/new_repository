@@ -1,3 +1,5 @@
 update
 commit in the enhancement branch
 commit 2 in the enhancement branch
+
+commit in the featured branch
